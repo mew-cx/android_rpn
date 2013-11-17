@@ -1,5 +1,8 @@
 android_rpn
 ===========
 
-my fork of https://github.com/lpar/RPN
+A simple RPN calculator for Android. 
+
+Derived from https://github.com/lpar/RPN
+
 
